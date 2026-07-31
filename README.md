@@ -1,1 +1,32 @@
-# api-security-learning-log
+# API Security Learning Log
+
+A public log of my journey through [PortSwigger's API Testing module](https://portswigger.net/web-security/api-testing) on Web Security Academy — written to document what I'm learning and to help other beginners in offensive security follow the same path.
+
+I'm a junior offensive security professional (web app pentesting, Active Directory exploitation) building out API-specific testing skills. This repo is where I break down each concept as I learn it — not lab walkthroughs, but the actual thought process behind each vulnerability class.
+
+**No lab spoilers.** You won't find copy-paste payloads or step-by-step solutions to PortSwigger's labs here — solving them yourself is where the actual learning happens. What you will find is how I think through each concept, what I tried, what failed, and how it maps to real-world API assessments.
+
+## Posts
+
+| # | Topic | Status |
+|---|-------|--------|
+| 01 | [Why I'm Learning API Security](posts/01-why-api-security.md) | ✅ Published |
+| 02 | API Endpoint Discovery | 🔜 Coming up |
+| 03 | Understanding REST vs GraphQL Structures | 🔜 Coming up |
+| 04 | Finding Hidden Parameters | 🔜 Coming up |
+| 05 | Mass Assignment Vulnerabilities | 🔜 Coming up |
+| 06 | Server-Side Parameter Pollution | 🔜 Coming up |
+| 07 | Broken Object-Level Authorization (BOLA) in APIs | 🔜 Coming up |
+
+## About Me
+
+Junior offensive security professional focused on web application pentesting and Active Directory exploitation. Currently expanding into API-specific security testing.
+
+- LinkedIn: (https://www.linkedin.com/in/dparas780/)
+- Bugcrowd: (https://bugcrowd.com/h/dparas7808)
+
+## Why This Repo Exists
+
+Most security learning happens in private — a lab gets solved, a certificate gets earned, and none of the actual thinking behind it is visible to anyone else. This repo is an attempt to make that thinking visible: partly to solidify my own understanding by writing it out, and partly because I wish more people documented their "still learning" phase instead of only their finished credentials.
+
+If you're working through the same PortSwigger module, feel free to open an issue or reach out — happy to compare notes.
