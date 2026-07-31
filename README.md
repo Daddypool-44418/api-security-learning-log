@@ -8,22 +8,22 @@ I'm a junior offensive security professional (web app pentesting, Active Directo
 
 ## Posts
 
-| # | Topic | Status |
-|---|-------|--------|
-| 01 | [Why I'm Learning API Security](posts/01-why-api-security.md) | ✅ Published |
-| 02 | API Endpoint Discovery | 🔜 Coming up |
-| 03 | Understanding REST vs GraphQL Structures | 🔜 Coming up |
-| 04 | Finding Hidden Parameters | 🔜 Coming up |
-| 05 | Mass Assignment Vulnerabilities | 🔜 Coming up |
-| 06 | Server-Side Parameter Pollution | 🔜 Coming up |
-| 07 | Broken Object-Level Authorization (BOLA) in APIs | 🔜 Coming up |
+Posts follow the PortSwigger API Testing module in order, so you can read along with the module section-by-section.
+
+| # | Topic | Covers | Status |
+|---|-------|--------|--------|
+| 01 | [Why I'm Learning API Security](posts/01-why-api-security.md) | Intro — why APIs need their own testing mindset | ✅ Published |
+| 02 | [API Recon: Finding the Attack Surface](posts/02-api-recon-discovery.md) | API recon, documentation discovery, identifying endpoints, interacting with endpoints (HTTP methods, content types, Intruder) | ✅ Published |
+| 03 | Finding Hidden Parameters & Mass Assignment | Finding hidden parameters, mass assignment vulnerabilities | 🔜 Coming up |
+| 04 | Server-Side Parameter Pollution | Query string, REST paths, structured data formats | 🔜 Coming up |
+| 05 | OWASP API Top 10 Alignment | How this module maps to the OWASP API Security Top 10 2023 | 🔜 Coming up |
 
 ## About Me
 
 Junior offensive security professional focused on web application pentesting and Active Directory exploitation. Currently expanding into API-specific security testing.
 
-- LinkedIn: (https://www.linkedin.com/in/dparas780/)
-- Bugcrowd: (https://bugcrowd.com/h/dparas7808)
+- LinkedIn: [add your profile link]
+- Bugcrowd: [add your profile link]
 
 ## Why This Repo Exists
 
