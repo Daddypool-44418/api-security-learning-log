@@ -22,8 +22,8 @@ Posts follow the PortSwigger API Testing module in order, so you can read along 
 
 Junior offensive security professional focused on web application pentesting and Active Directory exploitation. Currently expanding into API-specific security testing.
 
-- LinkedIn: (https://www.linkedin.com/in/dparas780/)
-- Bugcrowd: (https://bugcrowd.com/h/dparas7808)
+- LinkedIn: https://www.linkedin.com/in/dparas780/
+- Bugcrowd: https://bugcrowd.com/h/dparas7808
 
 ## Why This Repo Exists
 
